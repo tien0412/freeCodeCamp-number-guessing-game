@@ -38,7 +38,7 @@ fi
 done
 fi
 BEST_GAME_STAT=999
-echo -e "\nGuess the secret number between 1 and 1000:"
+echo -e "\n Guess the secret number between 1 and 1000:"
 
 MAIN_MENU(){
 
